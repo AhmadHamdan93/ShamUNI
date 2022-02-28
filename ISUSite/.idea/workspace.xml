@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e29aa1b-7323-4304-bd6f-88a49714d27b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/structure/migrations/0006_doctors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/structure/migrations/0007_auto_20200827_0122.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/structure/migrations/0008_adds_apdf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/structure/migrations/0009_auto_20200930_1449.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/structure/migrations/0010_auto_20200930_1451.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/structure/migrations/0011_success_svideo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ISUSite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ISUSite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISUSite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ISUSite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/owl.carousel.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/owl.carousel.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/uploads/2020/08/22/علوم سياسية.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/uploads/2020/08/22/علوم سياسية_thumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/structure/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/structure/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structure/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/structure/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structure/templates/structure/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/structure/templates/structure/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structure/templates/structure/News_Details.html" beforeDir="false" afterPath="$PROJECT_DIR$/structure/templates/structure/News_Details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structure/templates/structure/News_List.html" beforeDir="false" afterPath="$PROJECT_DIR$/structure/templates/structure/News_List.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structure/templates/structure/nav_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/structure/templates/structure/nav_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structure/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/structure/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structure/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/structure/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gDTkIXt0t0tXMBlmthKuhNGtUI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/gallery" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Bassa\PycharmProjects\ISUSite\assets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hamdan\Desktop\ISUSite\assets\gallery" />
+      <recent name="C:\Users\Hamdan\Desktop\ISUSite\structure\templates\structure" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ISUSite" type="Python.DjangoServer" factoryName="Django server">
+      <module name="ISUSite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="ISUSite.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e29aa1b-7323-4304-bd6f-88a49714d27b" name="Default Changelist" comment="" />
+      <created>1597648305175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597648305175</updated>
+      <workItem from="1597648330137" duration="20484000" />
+      <workItem from="1597989458014" duration="12321000" />
+      <workItem from="1598096330095" duration="4959000" />
+      <workItem from="1598119560377" duration="4967000" />
+      <workItem from="1598247959978" duration="5750000" />
+      <workItem from="1598463975431" duration="3023000" />
+      <workItem from="1598477194916" duration="4417000" />
+      <workItem from="1598601527549" duration="1984000" />
+      <workItem from="1598685398920" duration="847000" />
+      <workItem from="1598765871700" duration="13402000" />
+      <workItem from="1599637500313" duration="3142000" />
+      <workItem from="1601459748711" duration="3966000" />
+      <workItem from="1601463843230" duration="5425000" />
+      <workItem from="1601749719486" duration="16887000" />
+      <workItem from="1601800728906" duration="6969000" />
+      <workItem from="1601813267372" duration="5608000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="402" y="0" key="#ISUSite" timestamp="1601459882918">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="402" y="0" key="#ISUSite/0.0.1366.738@0.0.1366.738" timestamp="1601459882918" />
+    <state width="666" height="456" key="DebuggerActiveHint" timestamp="1601762410626">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="666" height="456" key="DebuggerActiveHint/0.0.1366.738@0.0.1366.738" timestamp="1601762410626" />
+    <state x="103" y="185" width="1182" height="554" key="DiffContextDialog" timestamp="1601460833005">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="103" y="185" width="1182" height="554" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1601460833005" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1601819897427">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1601819897427" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1601819897425">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1601819897425" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1601819897425">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1601819897424" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1601819897426">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1601819897426" />
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1601768457278">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1601768457278" />
+    <state width="1323" height="227" key="GridCell.Tab.1.center" timestamp="1601768457277">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1601768457277" />
+    <state width="1323" height="227" key="GridCell.Tab.1.left" timestamp="1601768457277">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1601768457277" />
+    <state width="1323" height="227" key="GridCell.Tab.1.right" timestamp="1601768457277">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1601768457277" />
+    <state x="184" y="12" key="SettingsEditor" timestamp="1601460003647">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="12" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1601460003647" />
+    <state x="379" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1601813282774">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="379" y="194" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1601813282774" />
+  </component>
+</project>
